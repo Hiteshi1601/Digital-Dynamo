@@ -1,0 +1,11 @@
+Idea Description : 
+
+QR-based digital health profile system (MediQR)
+
+Each patient gets a unique QR code storing:
+ 
+Health issues & medical history.
+
+Integrates AI for intelligent drug interaction
+
+Linked blood group & nearest blood bank availability.

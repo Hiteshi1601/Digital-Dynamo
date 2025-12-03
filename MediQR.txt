@@ -1,0 +1,8 @@
+Problem Statement:
+
+In emergencies, lack of quick access to patient health data leads to delayed treatment.
+
+Blood bank availability is scattered, making urgent blood requirement difficult to fulfill.
+
+Patients often forget medical records, prescriptions, or history of health issues.
+ 
